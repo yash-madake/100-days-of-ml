@@ -4,3 +4,4 @@
 3) Logistic Regression
 4) Voting Classifier
 5) Voting Regressor
+6) KNeighbors
