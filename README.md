@@ -3,3 +3,4 @@
 2) Gradient Descent
 3) Logistic Regression
 4) Voting Classifier
+5) Voting Regressor
