@@ -6,3 +6,4 @@
 5) Voting Regressor
 6) KNeighbors
 # 100-days-of-dl
+1) Forward Propagation
