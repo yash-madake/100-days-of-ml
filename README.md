@@ -8,3 +8,4 @@
 # 100-days-of-dl
 1) Forward Propagation
 2) Back Propagation
+3) Activation Functions
