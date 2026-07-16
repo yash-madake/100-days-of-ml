@@ -7,3 +7,4 @@
 6) KNeighbors
 # 100-days-of-dl
 1) Forward Propagation
+2) Back Propagation
